@@ -176,7 +176,7 @@ All test cases follow a standardized format for easy tracking and review.
 ## [Platform Compatibility Testing (Basic Flutter Coverage)](./Platform%20Compatibility%20Testing)
 
 - [PLAT-001_android_version_compatibility](./Platform%20Compatibility%20Testing/PLAT-001_android_version_compatibility.md)
-- [PLAT-002_device_variety](./Platform%20Compatibility%20Testing/PLAT-003_device_variety.md)
+- [PLAT-002_device_variety](./Platform%20Compatibility%20Testing/PLAT-002_device_variety.md)
 
 ---
 
