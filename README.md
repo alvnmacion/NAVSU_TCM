@@ -180,6 +180,3 @@ All test cases follow a standardized format for easy tracking and review.
 
 ---
 
-## Test Coverage
-
-See [test_coverage.md](./test_coverage.md) for a summary of coverage.
